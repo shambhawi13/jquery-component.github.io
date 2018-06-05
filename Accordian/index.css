@@ -1,0 +1,10 @@
+#accordian-header{
+	background-color: #D3D3D3;
+	padding: 1vw;
+	border-bottom: 1px solid #bfbaba;
+}
+#accordian-body{
+	background-color: #D3D3D3;
+	padding: 1vw;
+	height: 15vw;
+}

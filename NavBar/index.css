@@ -1,0 +1,11 @@
+.NavBar{
+	display: flex;
+    flex-direction: row;
+}
+.tab{
+	width: 25%;
+}
+.tabContent1, .tabContent2, .tabContent3, .tabContent4{
+	background-color: #D3D3D3;
+	height: 15vw;
+}
